@@ -132,7 +132,7 @@ text-align:center;
 			$result = mysqli_query($conn, $sql);
 
 				while($row = mysqli_fetch_array($result)) {
-					$img = 'static/colleges/'.$row['name'].'.jpg' alt="Find top Colleges";
+					$img = 'static/colleges/'.$row['name'].'.jpg';
 					$location = $row['address'];
 					echo '<form action="GET">';
 						echo '<div class="col mb-4">';
