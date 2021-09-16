@@ -12,7 +12,7 @@
   gtag('config', 'G-2YSY7BEV11');
 </script>
 
-	<title>Home</title>
+	<title>College Search: Find Best colleges in India</title>
 	<style>
 	
 	.pagi{
