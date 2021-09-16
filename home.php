@@ -14,6 +14,7 @@
 
 	<title>College Search: Find Best colleges in India</title>
 	<meta name="description" content="A one stop destination to get all information about top colleges and universities in India">
+	<meta name="keywords" content="College Search, Explore Top universities, Admissions, Find Your College">
 	<style>
 	
 	.pagi{
