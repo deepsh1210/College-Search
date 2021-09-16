@@ -172,7 +172,7 @@ text-align:center;
 						<h1 class="display-2 text-center" style="color:#8A2BE2;"><b>Looking for your</b></h1>
 						<h1 class="display-2 text-center" style="color:#8A2BE2;"><b>dream college?</b></h1>
 						<div class="text-center">
-							<p class="text-center" style="font-size: 30px;">CollegeSearch is your one-stop destination.</p>
+							<p class="text-center" style="font-size: 30px;">Find Best Colleges in India.</p>
 							<a href="register.php" class="btn btn-info btn-lg" style="margin:auto;">Sign Up</a>
 						</div>
 						
