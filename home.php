@@ -132,12 +132,12 @@ text-align:center;
 			$result = mysqli_query($conn, $sql);
 
 				while($row = mysqli_fetch_array($result)) {
-					$img = 'static/colleges/'.$row['name'].'.jpg';
+					$img = 'static/colleges/'.$row['name'].'.jpg' alt="Find top Colleges";
 					$location = $row['address'];
 					echo '<form action="GET">';
 						echo '<div class="col mb-4">';
 							echo '<div class="card shadow p-3 mb-5 bg-white rounded">';
-							echo '<img src="'.$img.'" class="card-img-top" height="350px"  alt="...">';
+							echo '<img src="'.$img.'" class="card-img-top" height="350px"  alt="Card">';
 							echo '<div class="card-body">';
 								echo '<h5 class="card-title">'.$row["name"].'</h5>';
 								echo '<i class="fa fa-map-marker" style="font-size:20px;"> '.$location.'</i>';
@@ -181,7 +181,7 @@ text-align:center;
 						
 					</div>
 					<div class="col-lg-5">
-						<img src="static/home.png" alt="" height="400px">
+						<img src="static/home.png" alt="Find Your Dream College" height="400px">
 					</div>
 				</div>
 				
